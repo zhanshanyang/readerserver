@@ -1,1 +1,1 @@
-I'am a world.Please open your zfb application.
+{"zhifubao":"打开支付宝首页搜索“527522251” 立即领红包","ok":true}
